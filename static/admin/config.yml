@@ -31,6 +31,27 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
 
+- name: "themes"
+    label: "Themes"
+    folder: "content/themes"
+    create: true
+    slug: "{{month}}-{{day}}-{{year}}_{{slug}}"
+    preview_path: "themes/{{fields.slug}}"
+    fields:
+      - {
+          label: "Template",
+          name: "template",
+          widget: "hidden",
+          default: "theme",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: true }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Category", name: "category", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list" }
+
   - name: "pages"
     label: "Pages"
     folder: "content/pages"
