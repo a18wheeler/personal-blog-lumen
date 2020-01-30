@@ -1,7 +1,7 @@
 ---
 template: post
 title: Teaching a Dog New Tricks
-draft: true
+draft: false
 date: 2020-01-30T05:56:29.314Z
 description: >-
   A man discovers that you can teach an old dog new tricks, as long as you have
