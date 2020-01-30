@@ -1,13 +1,12 @@
 ---
-title: "About me"
-template: "page"
-socialImage: "/media/image-2.jpg"
+template: page
+title: About
+draft: true
 ---
+Hi, my name is Andrew Wheeler and I am a Software Engineer by day and an aspiring writer by night.  
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Since I hope to take off the "aspiring" part one day, I have planned to write a short story every single day outside of weekends. I haven't really set any limitations for myself, I would only say that each story much feel like it has a legitimate beginning and end. Since I will be writing these stories everyday, you probably won't find a single story much longer than 600 words long. We'll see.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+Hopefully you enjoy some of the stories I write. Who knows, I might even write something good once in a while.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+![Me by a computer](/media/IMG_20170414_125620_695.jpg "Me \"multitasking\"")
