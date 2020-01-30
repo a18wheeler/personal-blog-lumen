@@ -10,7 +10,7 @@ tags:
   - "Writing"
   - "Personal"
 description: "An amateur writer discovers the challenges that come to writing a new story."
-socialImage: /media/42-line-bible.jpg
+socialImage: /media/book-image.jpg
 ---
 
 The sun shined on the writers cheeks as he opened up his computer and set out to write the most magnificent story. It had been quite a while since he had attempted to write a story but he felt a sudden rush of inspiration, and as such, felt that a new story was just waiting to burst through his fingers. As his fingers touched the keyboard, his excitement grew. He looked at the keyboard, then to the monitor, and said "Let's do this". He began to type,
