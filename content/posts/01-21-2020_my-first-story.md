@@ -19,9 +19,13 @@ The sun shined on the writers cheeks as he opened up his computer and set out to
 
 "Yes," the writer thought. "That is quite the hook. Now where should I go from here?" The writer closed his eyes and imagined being in that situation. He imagined a cold, dark cell in a foreign country with his hands and feet bound. The walls around him showing signs of wear but not enough to allow for a less than easy escape. He imagined another prisonor speaking to him from an adjacent cell. The prisoner telling him that they must work together if they are going to survive. Only minutes later, having that prisoner get dragged off by some prison guards. Just then the writer realizes that he's seen this before. This was all from an old episode of the X-Files.
 
-The writer shook that off and then just looked at the words that had been typed out. He now had to remove that thought but still imagine the scene to really get into it. He imagined a cold, dark cell again but this time it was in America. He was no longer in chains but was very weak on the ground. A prisoner was still in the adjacent cell talking to him. He pictured that prisoner and then got confused. "Was it Krychek or another character" he thought. At first he had imagined Krychek, an adversary to one of the X-Files duo, but now he wasn't sure. He again focused on the page but couldn't leave the thought alone. "I have to look it up" he thought. So he went onto Google and typed in "xfiles mulder russia". This pops up with the episode Tunguska.
+The writer shook that off and then just looked at the words that had been typed out. He now had to remove that thought but still imagine the scene to really get into it. He imagined a cold, dark cell again but this time it was in America. He was no longer in chains but was very weak on the ground. A prisoner was still in the adjacent cell talking to him. He pictured that prisoner and then got confused. "Was it Krychek or another character" he thought. At first he had imagined Krychek, an adversary to one of the X-Files duo, but now he wasn't sure. He again focused on the page but couldn't leave the thought alone. "I have to look it up" he thought. So he went onto Google and typed in "xfiles mulder russia". This pops up with the episode called "Tunguska". "That's it!" the writer exclaimed. He scrolled down the page only to find that there was no synopsis for the episode. Again, he had hit an obstacle. "I'll have to watch it then," he thought.
 
-> To be continued...
+So he started up Hulu and began to watch. The twirl and hums of the X-Files theme song came on and instantly put a smile on the writer's face. "Damn this is a great show" he remarked. He fast forwarded it until he found Agent Mulder in a prison cell. Sure enough, there was Krycek. "I knew it!" he thought. "Oh I guess I was wrong about being bound though." The writer turned off the show and went back to his computer.
+
+> The man woke to find himself in a room that was unknown to him.
+
+"I think I'm just going to start over," thought the writer.
 
 <!-- - [The first transition](#the-first-transition)
 - [The digital age](#the-digital-age)
