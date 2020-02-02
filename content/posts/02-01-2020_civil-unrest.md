@@ -32,7 +32,7 @@ Mary could now see that this man was a confederate soldier. Dirty and bloodstain
 
 "Remember," he said sternly, "don't take advantage of my trust." He stared dead into her eyes. Hours seem to pass before he finally releases her arm. Mary goes upstairs and grabs some alcohol and bandages. She returns downstairs but only finds the wounded soldier. She looks around the room but finds no evidence of him. 
 
-"Glad to see you found something," he whispers from behind. Mary jumps around and finds a gun pointed and her from the dark. 
+"Glad to see you found something," he whispers from behind. Mary jumps around and finds a gun pointed at her from the dark. 
 
 "What are you doing?" she asked.
 
@@ -58,8 +58,8 @@ Mary could now see that this man was a confederate soldier. Dirty and bloodstain
 
 "Sure," Bill replies. Mary again goes upstairs. Bill looks down and Richard and notices that his eyes are closed. "Hey bud, open your eyes. You better stay awake." Richard doesn't move. Bill smacks Richard in the face. Nothing. "Hey, Mrs. Mary! I think Richard is dead!" Tears begin to stem down Bill's face. Suddenly, a click can be heard.
 
-"You're goddamn right he is." Bill turns around and finds Mary behind him with a rifle. A mixture of hate in fear filled her eyes. "My William died because of you bastards," she says with fiery inflection.
+"You're goddamn right he is." Bill turns around and finds Mary behind him with a rifle. A mixture of hate and fear filled her eyes. "My William died because of you bastards," she says with fiery inflection.
 
 "Mrs. Mary," Bill says while raising his hands, "you don't have to do this." Bill glances over at his gun, a few feet away, but only for a second. He knew that a glance lasting a second longer would lead to his death. 
 
-"I want you to know something Bill," Mary started, "you're friend might have survived had I not slipped the bastard some rat poison." Bill's eyes lit up with anger. He instantly reached for the gun and brought it up. A single shot rang out. Bill and Mary both stared deep into each other's eyes. Then slowly, Bill collapsed over next to Richard. His breath shuttering as he moved his hand over his own wound. He looked over at Richard and reached out. His hand collapsed as his final breath left his body and a little patch of flooring became his deathbed; a deathbed a mere inches away from that of his comrade's.
+"I want you to know something Bill," Mary started, "your friend might have survived had I not slipped the bastard some rat poison." Bill's eyes lit up with anger. He instantly reached for the gun and brought it up. A single shot rang out. Bill and Mary both stared deep into each other's eyes. Then slowly, Bill collapsed over next to Richard. His breath shuttering as he moved his hand over his own wound. He looked over at Richard and reached out. His hand collapsed as his final breath left his body and a little patch of flooring became his deathbed; a deathbed a mere inches away from that of his comrade's.
