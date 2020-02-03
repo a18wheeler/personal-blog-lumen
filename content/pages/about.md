@@ -9,6 +9,6 @@ Since I hope to take off the "aspiring" part one day, I have set out to write a 
 
 Hopefully you'll enjoy some of the stories I write. Who knows, I might even write something good once in a while.
 
-![Me by a computer](/media/IMG_20170414_125620_695.jpg 'Me "multitasking"' "Me at Computer")
+![Me by a computer](/media/IMG_20170414_125620_695.jpg "multitasking\"' \"Me at Computer")
 
 *Me 'multitasking'*
