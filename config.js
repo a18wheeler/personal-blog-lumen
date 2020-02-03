@@ -13,7 +13,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: "Articles",
+      label: "Stories",
       path: "/"
     },
     {
