@@ -1,7 +1,7 @@
 ---
 template: post
 title: Down the Mountain - Part I
-draft: true
+draft: false
 date: 2020-02-06T05:24:09.257Z
 description: 'A man find himself bound in a van, with no signs of escape.'
 category: Horror
@@ -18,4 +18,4 @@ I started to tug on the rope again. The more I worked at it, the more I could fe
 
 Suddenly, the van doors opened. The moonlight pierced through the hood. Through the hood, I saw the outline of three men leaving the van. A fourth man pulled at me and led me towards the exit. He walked me about twenty feet before stopping. I could feel his breath in my ear as he moved closer to me. “Don’t move, or you die” he said. I felt him tug at the rope and then place something in my pocket. Then, all of a sudden, he began to pull back. I could hear his footsteps as he walked away. Then the van doors opened. Then they closed. I heard the van drive away and then I heard nothing. Not even a bird chirping. The only sound that remained was the sound of the wind whipping in the night. I took this time to try and work at the rope again. Surprisingly, it was coming apart very quickly. I tugged at it again and could feel that it was about to snap. 
 
-Then the hair on my neck pricked up. Something was moving behind me. The footsteps were much louder than the man’s feet earlier. Everything in my body was shouting to escape but I found that I couldn’t move. The footsteps were now so close that I could feel the small rocks shake around my feet. I suddenly gained movement again and began to pull on the rope. With one more pull, I would be free, I knew it. Suddenly, the creature was behind me. I could feel it’s breath on my neck. I pulled at the rope again and felt it break. I quickly removed my hood and found myself at the edge of a cliff. With my body still shaking, I turned around and looked straight into the eyes of the beast. It started with vicious intent and let out a ferocious roar. I stumbled back and lost my footing. Suddenly, I was falling. Falling far into the abyss with a monster looking down on me.
+Then the hair on my neck pricked up. Something was moving behind me. The footsteps were much louder than the man’s feet earlier. Everything in my body was shouting to escape but I found that I couldn’t move. The footsteps were now so close that I could feel the small rocks shake around my feet. I suddenly gained movement again and began to pull on the rope. With one more pull, I would be free, I knew it. Suddenly, the creature was behind me. I could feel it’s breath on my neck. I pulled at the rope again and felt it break. I quickly removed my hood and found myself at the edge of a cliff. With my body still shaking, I turned around and looked straight into the eyes of the beast. It started with vicious intent and let out a ferocious roar. I stumbled back and lost my footing. Suddenly, I was falling. Falling far into the abyss with a monster looking down upon me.
